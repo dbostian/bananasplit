@@ -29,7 +29,7 @@ A) “Yellow, everyone.”
 
 **Q) What’s your favorite programming language?**
 
-A) Not sure if I have a favorite, but Javascript is `('b' + 'a' + + 'a' + 'a' + 's')`
+A) Not sure if I have a favorite, but Javascript is `('b' + 'a' + + 'a' + 's')`
 
 **Q) This FAQ is causing me physical pain.**
 
